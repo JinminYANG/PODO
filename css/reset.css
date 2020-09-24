@@ -1,6 +1,6 @@
 @charset "UTF-8";
 
-@import url('https://fonts.googleapis.com/css2?family=Do+Hyeon&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic&display=swap');
 
 /*reset*/
 html, body, div, ul, ol, li, dl, dt, dd, p, address, h1, h2, h3, h4, h5, h6, blockquote, table, tr, th, td, caption, form, fieldset, legend, header, article, nav, section, main, footer, figure, aside {
@@ -103,7 +103,7 @@ html {
 }
 
 body {
-    font: 2.0rem 'Do Hyeon', sans-serif;
+    font: 2.0rem 'Nanum Gothic', sans-serif;
     position: relative;
 }
 
